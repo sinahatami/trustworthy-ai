@@ -1,9 +1,0 @@
-env/
-.venv
-.venv-secml
-dist
-build
-node_modules/
-__pycache__/
-*.log
-.git/
